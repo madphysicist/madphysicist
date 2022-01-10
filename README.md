@@ -1,5 +1,4 @@
-Introduction
-============
+# Introduction
 
 Hi, I am algorithm engineer with a background in physics and signal processing.
 Coding is a hobby of mine. I like to contribute fixes and improvemens to
@@ -13,8 +12,7 @@ translation and python implementation of Jean Jacquelin's paper, which you can
 find in the repo.
 
 
-My Repos
-========
+# My Repos
 
 Here is a selection of repos with a note about each one:
 
@@ -72,8 +70,7 @@ Here is a selection of repos with a note about each one:
   utilities with external dependencies (like TestNG).
 
 
-Stack Exchange
-==============
+# Stack Exchange
 
 I've been on Stack Exchange for a while now, and some of the open source work
 I've done is a direct consequence of my contributions there. The list below
@@ -129,6 +126,8 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   - https://stackoverflow.com/q/64981711/2988730
   - https://stackoverflow.com/q/31387047/2988730
   - https://stackoverflow.com/q/69856133/2988730
+- [`haggis.numbers.english`](https://haggis.readthedocs.io/en/latest/api.html#haggis.numbers.english) implements the usage rules
+  from this answer on English Language and Usage SE: https://english.stackexchange.com/a/111837/207127.
 - My first attempt at a ufunc:
   [is_integer_ufunc](https://github.com/madphysicist/isint_ufunc). This still
   needs work before it's ready for review by the numpy community, but the
