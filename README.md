@@ -11,6 +11,9 @@ It's a collection of linearized optimization routines that started as a
 translation and python implementation of Jean Jacquelin's paper, which you can
 find in the repo.
 
+# Relevant Links
+
+- https://nvie.com/posts/a-successful-git-branching-model/
 
 # My Repos
 
