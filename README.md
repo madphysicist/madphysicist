@@ -183,6 +183,10 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   - https://stackoverflow.com/q/318888/2988730
   - https://stackoverflow.com/a/320981/2988730
   - https://stackoverflow.com/q/44080418/2988730
+- Added [`haggis.math.segment_distance`]() as a result of the first of these questions:
+  - https://stackoverflow.com/a/70645020/2988730
+  - https://stackoverflow.com/q/39840030/2988730
+  - https://stackoverflow.com/q/23103345/2988730
 - A question about formatting determinacy https://stackoverflow.com/q/41050445/2988730 led to a new test case
   for [pyformat.info](https://pyformat.info/#string_pad_align_5) in [PR #38](https://github.com/ulope/pyformat.info/pull/38).
 
