@@ -193,7 +193,7 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
 Stuff that might get turned into PRs one day:
 
   - Estimating the size of an index in numpy: https://stackoverflow.com/a/65857268/2988730
-  - `np.atleast_nd` function (numpy):
+  - `np.atleast_nd` function (numpy [PR #18386](https://github.com/numpy/numpy/pull/18386)):
     - https://stackoverflow.com/q/19636487/2988730
     - https://stackoverflow.com/q/15940831/2988730
   - Reverse winding of paths in matplotlib: https://stackoverflow.com/q/68275413/2988730
