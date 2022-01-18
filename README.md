@@ -187,6 +187,11 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   - https://stackoverflow.com/a/70645020/2988730
   - https://stackoverflow.com/q/39840030/2988730
   - https://stackoverflow.com/q/23103345/2988730
+- Angular distances are implemented in [`haggis.math.ang_diff_pos`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.ang_diff_pos),
+  [`haggis.math.ang_diff_min`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.ang_diff_min) and
+  [`haggis.math.ang_diff_abs`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.ang_diff_abs). They have appeared in
+  - https://stackoverflow.com/q/15927755/2988730
+  - https://stackoverflow.com/q/1878907/2988730
 - A question about formatting determinacy https://stackoverflow.com/q/41050445/2988730 led to a new test case
   for [pyformat.info](https://pyformat.info/#string_pad_align_5) in [PR #38](https://github.com/ulope/pyformat.info/pull/38).
 
