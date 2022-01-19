@@ -201,6 +201,7 @@ Stuff that might get turned into PRs one day:
   - `np.atleast_nd` function (numpy [PR #18386](https://github.com/numpy/numpy/pull/18386)):
     - https://stackoverflow.com/q/19636487/2988730
     - https://stackoverflow.com/q/15940831/2988730
+    - https://stackoverflow.com/q/70758062/2988730
   - Reverse winding of paths in matplotlib: https://stackoverflow.com/q/68275413/2988730
   - Weighted partitioning in numpy: https://stackoverflow.com/q/20601872/2988730. This in turn will enable weighted histogram bin estimation.
   - Weights to `np.std`: https://stackoverflow.com/q/2413522/2988730
