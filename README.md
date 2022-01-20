@@ -187,6 +187,8 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   - https://stackoverflow.com/a/70645020/2988730
   - https://stackoverflow.com/q/39840030/2988730
   - https://stackoverflow.com/q/23103345/2988730
+  And an interesting application here:
+  - https://stackoverflow.com/q/70762830/2988730
 - Angular distances are implemented in [`haggis.math.ang_diff_pos`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.ang_diff_pos),
   [`haggis.math.ang_diff_min`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.ang_diff_min) and
   [`haggis.math.ang_diff_abs`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.ang_diff_abs). They have appeared in
