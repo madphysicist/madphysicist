@@ -183,7 +183,7 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   - https://stackoverflow.com/q/318888/2988730
   - https://stackoverflow.com/a/320981/2988730
   - https://stackoverflow.com/q/44080418/2988730
-- Added [`haggis.math.segment_distance`]() as a result of the first of these questions:
+- Added [`haggis.math.segment_distance`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.segment_distance) as a result of the first of these questions:
   - https://stackoverflow.com/a/70645020/2988730
   - https://stackoverflow.com/q/39840030/2988730
   - https://stackoverflow.com/q/23103345/2988730
@@ -200,6 +200,10 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   for [pyformat.info](https://pyformat.info/#string_pad_align_5) in [PR #38](https://github.com/ulope/pyformat.info/pull/38).
 - [`haggis.objects.copy_class`](https://haggis.readthedocs.io/en/latest/api.html#haggis.objects.copy_class) is based on https://stackoverflow.com/q/49157255/2988730
 - [`haggis.objects.copy_func`](https://haggis.readthedocs.io/en/latest/api.html#haggis.objects.copy_func) is based on https://stackoverflow.com/q/13503079/2988730, implemented in https://stackoverflow.com/q/49076566/2988730
+- [`haggis.load.load_module`](https://haggis.readthedocs.io/en/latest/api.html#haggis.load.load_module) is based on three answers:
+  - https://stackoverflow.com/a/67692/2988730 (general loading technique)
+  - https://stackoverflow.com/a/50395128/2988730 (regisering in `sys.modules`)
+  - https://stackoverflow.com/q/38647348/2988730 (variable injection)
 
 Stuff that might get turned into PRs one day:
 
