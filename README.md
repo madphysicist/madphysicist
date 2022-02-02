@@ -1,7 +1,7 @@
 # Introduction
 
 Hi, I am algorithm engineer with a background in physics and signal processing.
-Coding is a hobby of mine. I like to contribute fixes and improvemens to
+Coding is a hobby of mine. I like to contribute fixes and improvements to
 projects that I use frequently, such as the
 [numpy](https://github.com/numpy/numpy) /
 [scipy](https://github.com/scipy/scipy) /
