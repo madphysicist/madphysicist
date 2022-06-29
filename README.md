@@ -206,6 +206,7 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   - https://stackoverflow.com/a/50395128/2988730 (regisering in `sys.modules`)
   - https://stackoverflow.com/q/38647348/2988730 (variable injection)
 - [`haggis.logs.add_logging_level`](https://haggis.readthedocs.io/en/stable/api.html#haggis.logs.add_logging_level) is a productionized version of https://stackoverflow.com/a/35804945/2988730.
+- [`haggis.files.docx.list_number`](https://haggis.readthedocs.io/en/latest/api.html#haggis.files.docx.list_number) is based on the answers to https://stackoverflow.com/q/51829366/2988730.
 
 Stuff that might get turned into PRs one day:
 
