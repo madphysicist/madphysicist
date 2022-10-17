@@ -195,6 +195,8 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
   [`haggis.math.ang_diff_abs`](https://haggis.readthedocs.io/en/stable/api.html#haggis.math.ang_diff_abs). They have appeared in
   - https://stackoverflow.com/q/15927755/2988730
   - https://stackoverflow.com/q/1878907/2988730
+- [`haggis.npy_util.unmasked_index`](https://haggis.readthedocs.io/en/stable/api.html#haggis.npy_util.unmasked_index), while not written specifically for https://stackoverflow.com/q/71389165/2988730, does provide an answer.
+  - Another possible application: https://stackoverflow.com/q/64082288/2988730
 - [`haggis.objects.getsizeof`](https://haggis.readthedocs.io/en/latest/api.html#haggis.objects.getsizeof) was added to help with this question: https://stackoverflow.com/q/70792724/2988730, with the help of this one: https://stackoverflow.com/q/449560/2988730
 - A question about formatting determinacy https://stackoverflow.com/q/41050445/2988730 led to a new test case
   for [pyformat.info](https://pyformat.info/#string_pad_align_5) in [PR #38](https://github.com/ulope/pyformat.info/pull/38).
