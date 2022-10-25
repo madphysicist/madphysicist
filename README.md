@@ -201,7 +201,7 @@ to 3000 characters, so I gave up on trying to squeeze it in there.
 - A question about formatting determinacy https://stackoverflow.com/q/41050445/2988730 led to a new test case
   for [pyformat.info](https://pyformat.info/#string_pad_align_5) in [PR #38](https://github.com/ulope/pyformat.info/pull/38).
 - [`haggis.objects.copy_class`](https://haggis.readthedocs.io/en/latest/api.html#haggis.objects.copy_class) is based on https://stackoverflow.com/q/49157255/2988730
-- [`haggis.objects.copy_func`](https://haggis.readthedocs.io/en/latest/api.html#haggis.objects.copy_func) is based on https://stackoverflow.com/q/13503079/2988730, implemented in https://stackoverflow.com/q/49076566/2988730
+- [`haggis.objects.copy_func`](https://haggis.readthedocs.io/en/latest/api.html#haggis.objects.copy_func) is based on https://stackoverflow.com/q/13503079/2988730 (duplicate of https://stackoverflow.com/q/6527633/2988730), implemented in https://stackoverflow.com/q/49076566/2988730
 - [`haggis.load.load_module`](https://haggis.readthedocs.io/en/latest/api.html#haggis.load.load_module) is based on four answers:
   - https://stackoverflow.com/a/43602645/2988730 (general loading technique)
   - https://stackoverflow.com/a/67692/2988730 (general loading technique)
