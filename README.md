@@ -1,3 +1,6 @@
+This project, along with all my others, has moved to GitLab: https://gitlab.com/madphysicist/madphysicist.
+Please download the latest version and submit updates there rather than GitHub, which will no longer be monitored.
+
 # Introduction
 
 Hi, I am algorithm engineer with a background in physics and signal processing.
